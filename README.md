@@ -1,7 +1,7 @@
 ## Next.js_MongoDB_E-Commerce_Dashboard
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) that displays KPI metrics for a fictional e-commerce back office management system. There are 3 main endpoints: users, products and orders and KPI metrics displayed showcase the number of documents in each collection, the most popular items and best selling products. The bottom section of the page shows the total sales accumulated and the average order value.
 
-The dashboard UI components are built with [Tremor](https://www.tremor.so/) and the back-end data-source is a Cloud based MongoDB host called [Atlas](https://www.mongodb.com/atlas/database). The KPI metrics are driven by sophisticated queries utilising the MongoDB aggregation framework.
+The dashboard UI components are built with [Tremor](https://www.tremor.so/) and the back-end data-source is a Cloud based MongoDB host called [Atlas](https://www.mongodb.com/atlas/database). The KPI metrics are driven by sophisticated queries utilising the MongoDB aggregation pipeline framework.
 
 ## Prerequisites
 1) Node.js >= version 18.12.1
