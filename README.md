@@ -31,7 +31,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Application Pictures
 ![Kpi Metrics](public/KPI_Metrics.png)
-![Kpi Metrics](public/KPI_Metric.png)
+![Kpi Metric](public/KPI_Metric.png)
 
 ## Learn More
 
